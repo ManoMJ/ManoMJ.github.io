@@ -78,7 +78,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
-
+  - jekyll-paginate
 # Front Matter Defaults
 defaults:
   # Posts defaults
